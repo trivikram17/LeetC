@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/trivikram17/LeetC/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/trivikram17/LeetC/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/trivikram17/LeetC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/trivikram17/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
