@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/trivikram17/LeetC/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/trivikram17/LeetC/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/trivikram17/LeetC/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/trivikram17/LeetC/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/trivikram17/LeetC/tree/master/3668-restore-finishing-order) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/trivikram17/LeetC/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
