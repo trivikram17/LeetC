@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/trivikram17/LeetC/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/trivikram17/LeetC/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/trivikram17/LeetC/tree/master/1929-concatenation-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/trivikram17/LeetC/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/trivikram17/LeetC/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/trivikram17/LeetC/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
