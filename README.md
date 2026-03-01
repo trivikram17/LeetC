@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/trivikram17/LeetC/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/trivikram17/LeetC/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/trivikram17/LeetC/tree/master/2574-left-and-right-sum-differences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/trivikram17/LeetC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/trivikram17/LeetC/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/trivikram17/LeetC/tree/master/3701-compute-alternating-sum) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/trivikram17/LeetC/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
