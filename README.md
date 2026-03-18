@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/trivikram17/LeetC/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/trivikram17/LeetC/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trivikram17/LeetC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/trivikram17/LeetC/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/trivikram17/LeetC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/trivikram17/LeetC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trivikram17/LeetC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/trivikram17/LeetC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trivikram17/LeetC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/trivikram17/LeetC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
