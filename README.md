@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/trivikram17/LeetC/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/trivikram17/LeetC/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/trivikram17/LeetC/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/trivikram17/LeetC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/trivikram17/LeetC/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/trivikram17/LeetC/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
 | ------- |
