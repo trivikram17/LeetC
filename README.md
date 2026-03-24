@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trivikram17/LeetC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trivikram17/LeetC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/trivikram17/LeetC/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/trivikram17/LeetC/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/trivikram17/LeetC/tree/master/1929-concatenation-of-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/trivikram17/LeetC/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/trivikram17/LeetC/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/trivikram17/LeetC/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/trivikram17/LeetC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/trivikram17/LeetC/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trivikram17/LeetC/tree/master/3760-maximum-substrings-with-distinct-start) |
