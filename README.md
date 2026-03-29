@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/trivikram17/LeetC/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/trivikram17/LeetC/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/trivikram17/LeetC/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/trivikram17/LeetC/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/trivikram17/LeetC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/trivikram17/LeetC/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/trivikram17/LeetC/tree/master/2574-left-and-right-sum-differences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/trivikram17/LeetC/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/trivikram17/LeetC/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/trivikram17/LeetC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/trivikram17/LeetC/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/trivikram17/LeetC/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivikram17/LeetC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/trivikram17/LeetC/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
 |  |
 | ------- |
